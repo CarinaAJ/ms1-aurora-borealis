@@ -56,7 +56,7 @@ li{
 .main-section{
     
     margin: 20px;
-    width: 50%;
+    text-align: center;
     height: 300px;
     border: 1px solid grey;
     border-radius: 25px;
