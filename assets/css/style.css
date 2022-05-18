@@ -6,6 +6,10 @@
     border: none;
 }
 
+body{
+    font-family: 'Roboto Flex', sans-serif;
+}
+
 /* aurora hero banner */
 
 #aurora-banner{
@@ -13,5 +17,4 @@
     width: 100%;
     height: 500px;
     margin: 80px 0 50px 0;
-    
 }
