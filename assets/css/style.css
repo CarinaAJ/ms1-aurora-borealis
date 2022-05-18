@@ -55,15 +55,22 @@ li{
 
 .main-section{
     
-    margin: 20px;
-    text-align: center;
+    margin: 30px;
     height: 300px;
     border: 1px solid grey;
     border-radius: 25px;
     border-color: #033246;
     letter-spacing: 1.5px;
     padding: 10px;
+    display: block;
+    text-align: justify;
     
+    
+    
+}
+
+#third-section{
+    margin: 30px;
     
 }
 
