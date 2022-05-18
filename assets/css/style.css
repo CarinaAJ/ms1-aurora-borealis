@@ -50,18 +50,14 @@ li{
     margin: 80px 0 50px 0;
 }
 
-/* aside aurora with sidebar */
-
-aside{
-    float: right;
-}
 
 /* main section */
 
 .main-section{
+    
     margin: 20px;
     width: 50%;
-    height: 200px;
+    height: 300px;
     border: 1px solid grey;
     border-radius: 25px;
     border-color: #033246;
@@ -69,4 +65,14 @@ aside{
     padding: 10px;
     
     
+}
+
+table,
+td,
+th {
+  border: 1px solid red;
+}
+
+table {
+  border-collapse: collapse;
 }
