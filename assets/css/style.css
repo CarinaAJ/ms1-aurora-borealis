@@ -13,31 +13,33 @@ body {
 /* h1 and navigation when decided on body font size adjust h1 if needed */
 
 
+
 #aurora-main {
     font-size: 3em;
     margin-left: 50px;
-  
-    
+
+
 }
 
-#navbar{
+#navbar {
     float: right;
     list-style-type: none;
-    
+
 }
 
 
-#navbar a{
+#navbar a {
     text-decoration: none;
-    color:#033246;
+    color: #033246;
     font-size: 25px;
-    
+
+
 }
 
-li{
+li {
     float: left;
     margin-right: 50px;
-    
+
 }
 
 
@@ -53,44 +55,63 @@ li{
 
 /* main section */
 
-.main-section{
-    
+.main-section {
+
     margin: 100px;
     border: 1px solid grey;
     border-radius: 25px;
     border-color: #033246;
     letter-spacing: 2px;
-    padding: 30px;;
+    padding: 30px;
+    ;
     display: block;
     text-align: justify;
     font-size: 18px;
 
 }
-    
 
-#first-section{
+
+#first-section {
     height: 300px;
 }
 
 
-#second-section{
+#second-section {
     height: 250px;
 
 }
 
-#third-section{
-    height:200px;
+#third-section {
+    height: 200px;
 
 }
-    
-#fourth-section{
-    height:150px;
+
+#fourth-section {
+    height: 150px;
     text-align: left;
 }
 
-#live-cams{
-    color:red;
+#live-cams {
+    color: red;
     list-style: circle;
     text-align: inital;
+
+}
+
+/* footer */
+
+footer{
+    height: 200px;
+    background-color: red;
+   
     
+}
+
+#social-media{
+    list-style-type: none;
+    text-align: center;
+}
+
+#social-media>li{
+    display: inline;
 }
