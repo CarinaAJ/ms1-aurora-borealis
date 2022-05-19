@@ -67,7 +67,6 @@ header{
     border-color: #033246;
     letter-spacing: 2px;
     padding: 30px;
-    ;
     display: block;
     text-align: justify;
     font-size: 18px;
@@ -116,6 +115,45 @@ footer {
 
 #social-media i:hover{
     color: #029d75;
+    transition-duration: 1s;
 }
 
 /* gallery page */
+
+#gallery-images{
+    padding-top: 200px;
+    
+}
+
+#first-image{
+}
+
+#second-image{
+
+}
+
+#third-image{
+    
+}
+
+#fourth-image{
+   
+    
+}
+
+#fifth-image{
+    
+    
+}
+
+#sixth-image{
+    
+}
+
+#seventh-image{
+    
+}
+
+#eigth-image{
+    
+}
