@@ -77,15 +77,20 @@ li{
     height: 250px;
 
 }
+
+#third-section{
+    height:200px;
+
+}
     
-
-
-table,
-td,
-th {
-  border: 1px solid pink;
+#fourth-section{
+    height:150px;
+    text-align: left;
 }
 
-table {
-  border-collapse: collapse;
+#live-cams{
+    color:red;
+    list-style: circle;
+    text-align: inital;
+    
 }
