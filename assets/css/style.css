@@ -98,18 +98,22 @@ body {
 
 /* footer */
 
-footer{
-    height: 200px;
-    background-color: red;
-   
-    
+footer {
+    padding: 50px;
 }
 
-#social-media{
+
+#social-media {
     list-style-type: none;
     text-align: center;
+
 }
 
-#social-media li{
+#social-media li {
     display: inline;
+    margin: 10%;
+}
+
+#social-media i{
+    font-size: 25px;
 }
