@@ -12,8 +12,6 @@ body {
 
 /* h1 and navigation when decided on body font size adjust h1 if needed */
 
-
-
 #aurora-main {
     font-size: 3em;
     margin-left: 50px;
@@ -36,7 +34,7 @@ body {
 
 }
 
-li {
+#navbar li {
     float: left;
     margin-right: 50px;
 
@@ -112,6 +110,6 @@ footer{
     text-align: center;
 }
 
-#social-media>li{
+#social-media li{
     display: inline;
 }
