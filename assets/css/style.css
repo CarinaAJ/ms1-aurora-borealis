@@ -137,7 +137,7 @@ footer {
 
 #live-cams{
     list-style-type: none;
-    
+   
 }
 
 #live-cams a{
@@ -153,8 +153,33 @@ footer {
     margin: 80px 0 50px 0;
 }
 
+#contact-header{
+    text-align: center;
+}
+
+
+form{
+    border: 1px solid midnightblue;
+    background-color: green;
+    width:50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+
+}
+
 fieldset{
     color:red;
+    font-size: 25px;
+    padding: 30px;
+    
+    
+}
+
+.form-input{
+    padding:20px;
+    
 }
 
 /* media queries */
