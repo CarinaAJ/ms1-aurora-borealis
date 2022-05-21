@@ -160,7 +160,7 @@ footer {
 
 form{
     border: 1px solid midnightblue;
-    background-color: green;
+    
     width:50%;
     text-align: center;
     margin-left: 25%;
@@ -170,17 +170,22 @@ form{
 }
 
 fieldset{
-    color:red;
+    
     font-size: 25px;
     padding: 30px;
+    text-align: center;
+ 
+    
+}
+
+
+.form-input{
+    padding:20px;
+    display: block;
     
     
 }
 
-.form-input{
-    padding:20px;
-    
-}
 
 /* media queries */
 
