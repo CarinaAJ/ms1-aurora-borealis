@@ -14,14 +14,12 @@ body {
 
 /* h1 and navigation when decided on body font size adjust h1 if needed */
 
-header{
-    
-}
+header {}
 
 #logo {
     font-size: 3em;
     margin-left: 50px;
-    
+
 }
 
 #navbar {
@@ -30,9 +28,10 @@ header{
 
 }
 
-#logo, #navbar{
+#logo,
+#navbar {
     background-color: yellow;
-    
+
 }
 
 #navbar a {
@@ -44,7 +43,7 @@ header{
 #navbar li {
     float: left;
     margin-right: 50px;
-    
+
 }
 
 
@@ -55,8 +54,8 @@ header{
     width: 100%;
     height: 500px;
     margin: 80px 0 50px 0;
-    
-    
+
+
 }
 
 
@@ -72,25 +71,27 @@ header{
     display: block;
     text-align: justify;
     font-size: 18px;
+    box-shadow: 5px 10px;
+    
 
 }
 
-.video-container{
+.video-container {
     display: block;
     text-align: center;
-    
+
 }
 
-iframe{
+iframe {
     height: 400px;
-    width: 40%;  
+    width: 40%;
 }
 
 /* footer */
 
 footer {
-    padding: 60px;    
-    
+    padding: 60px;
+
 }
 
 #social-media {
@@ -104,27 +105,27 @@ footer {
     margin: 10%;
 }
 
-#social-media i{
+#social-media i {
     font-size: 25px;
     color: black;
 }
 
-#social-media i:hover{
+#social-media i:hover {
     color: #029d75;
     transition-duration: 1s;
 }
 
 /* fun fact page */
 
-#aurora-banner-second{
+#aurora-banner-second {
     background: url('../images/p1-aurora-banner2.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
     margin: 80px 0 50px 0;
 }
 
-.fun-facts{
-   
+.fun-facts {
+
     margin: 60px;
     border: 1px solid white;
     border-radius: 25px;
@@ -132,60 +133,65 @@ footer {
     display: block;
     text-align: justify;
     font-size: 18px;
+    box-shadow: 5px 10px;
 
 }
 
-#live-cams{
+h4 {
+    text-decoration: underline;
+}
+
+#live-cams {
     list-style-type: none;
-   
+
 }
 
-#live-cams a{
+#live-cams a {
     text-decoration: none;
 }
 
 /* contact form */
 
-#aurora-banner-third{
+#aurora-banner-third {
     background: url('../images/p1-aurora-banner3.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
     margin: 80px 0 50px 0;
 }
 
-#contact-header{
+#contact-header {
     text-align: center;
 }
 
+/* maybe add text area field instead to make input field larger? */
 
-form{
+form {
     border: 1px solid midnightblue;
-    
-    width:50%;
+
+    width: 50%;
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
-   
+
 
 }
 
-fieldset{
-    
+fieldset {
+
     font-size: 25px;
     padding: 30px;
     text-align: center;
- 
-    
+
+
 }
 
 
-.form-input{
-    padding:20px;
+.form-input {
+    padding: 20px;
     display: block;
-    
-    
+
+
 }
 
 
 /* media queries */
-
