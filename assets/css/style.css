@@ -133,9 +133,12 @@ footer {
     text-align: justify;
     font-size: 18px;
 
-    
 }
 
+#live-cams{
+    list-style-type: none;
+    text-decoration: none;
+}
 
 /* contact form */
 
