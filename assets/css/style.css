@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Roboto Flex', sans-serif;
+    background-color: #bebebe; 
 }
 
 /* h1 and navigation when decided on body font size adjust h1 if needed */
