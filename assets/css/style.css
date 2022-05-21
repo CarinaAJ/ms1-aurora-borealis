@@ -79,6 +79,18 @@ header{
     height: 300px;
 }
 
+#video-container{
+    display: block;
+    text-align: center;
+}
+
+iframe{
+    height: 400px;
+    width: 50%;
+    
+}
+
+
 
 #second-part {
     height: 250px;
