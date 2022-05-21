@@ -63,9 +63,8 @@ header{
 .main-section {
 
     margin: 100px;
-    border: 1px solid grey;
+    border: 1px solid gray;
     border-radius: 25px;
-    border-color: #033246;
     letter-spacing: 2px;
     padding: 30px;
     display: block;
@@ -82,11 +81,12 @@ header{
 .video-container{
     display: block;
     text-align: center;
+    
 }
 
 iframe{
     height: 400px;
-    width: 50%;  
+    width: 40%;  
 }
 
 
@@ -105,7 +105,7 @@ iframe{
 /* footer */
 
 footer {
-    padding: 50px;    
+    padding: 60px;    
     
 }
 
