@@ -49,7 +49,7 @@ header{
 
 /* aurora hero banner */
 
-#aurora-banner {
+#aurora-banner-main {
     background: url(../images/p1-aurora-banner.jpg) no-repeat center center;
     width: 100%;
     height: 500px;
@@ -125,35 +125,11 @@ footer {
     
 }
 
-#first-image{
-}
+/* fun fact page */
 
-#second-image{
-
-}
-
-#third-image{
-    
-}
-
-#fourth-image{
-   
-    
-}
-
-#fifth-image{
-    
-    
-}
-
-#sixth-image{
-    
-}
-
-#seventh-image{
-    
-}
-
-#eigth-image{
-    
+#aurora-banner-second{
+    background: url('../images/p1-aurora-banner\(2\).jpg') no-repeat center center;
+    width: 100%;
+    height: 500px;
+    margin: 80px 0 50px 0;
 }
