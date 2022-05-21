@@ -79,15 +79,14 @@ header{
     height: 300px;
 }
 
-#video-container{
+.video-container{
     display: block;
     text-align: center;
 }
 
 iframe{
     height: 400px;
-    width: 50%;
-    
+    width: 50%;  
 }
 
 
