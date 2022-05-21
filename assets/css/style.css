@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Roboto Flex', sans-serif;
-    background-color: #bebebe; 
+    background-color: #293d5f;
 }
 
 /* h1 and navigation when decided on body font size adjust h1 if needed */
@@ -63,7 +63,7 @@ header{
 .main-section {
 
     margin: 100px;
-    border: 1px solid gray;
+    border: 1px solid white;
     border-radius: 25px;
     letter-spacing: 2px;
     padding: 30px;
@@ -73,10 +73,11 @@ header{
 
 }
 
-
+/*  
 #first-part {
     height: 300px;
 }
+*/
 
 .video-container{
     display: block;
@@ -89,17 +90,20 @@ iframe{
     width: 40%;  
 }
 
-
-
+/*  
 #second-part {
     height: 250px;
 
 }
+*/
+
+/*  
 
 #third-part {
     height: 200px;
 
 }
+*/
 
 
 /* footer */
