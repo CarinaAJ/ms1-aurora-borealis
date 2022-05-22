@@ -152,6 +152,7 @@ footer {
 
 #audio-container{
     width: 50%;
+    
 }
 
 .fun-facts {
@@ -197,7 +198,7 @@ h4 {
 #contact-form{
     padding: 10px;
     text-align: center;
-    border: 2px solid red;
+    border: 3px solid #029d75;;
     box-sizing: border-box;
     margin-left: 25%;
     margin-right: 25%;
@@ -238,6 +239,11 @@ button{
     font-weight: bold;
     height: 50px;
     width: 50%;
+}
+
+button:hover{
+    background-color:#029d75;
+    transition-duration: 1.5s;
 }
 
 
