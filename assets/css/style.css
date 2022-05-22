@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    
 }
 
 html, body{
@@ -166,7 +166,6 @@ h4 {
     text-decoration: none;
 }
 
-/* contact form */
 
 #aurora-banner-third {
     background: url('../images/p1-aurora-banner3.jpg') no-repeat center center;
@@ -175,47 +174,56 @@ h4 {
     margin: 80px 0 50px 0;
 }
 
-#contact-header {
-    float: left;
-}
-
 /* contact page  */
 
-form{
-    border:1px solid yellow;
+#sign-up-intro{
+    text-align: left;
+}
+
+#contact-form{
     padding: 10px;
-    width: 50%;
+    text-align: center;
+    border: 2px solid red;
+    box-sizing: border-box;
+    width: 40%;
+    
     
 }
 
 legend{
-    font-size: 30px;
-    color: red;
+    font-size: 25px;
+    
 }
 
 .user-input{
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    
 }
 
 label{
     display: inline-block;
-    width: 100px;
-    text-align: left;
+    width: 100%;
 }
 
 
-textarea, input{
-    border: 1px solid orangered;
+input{
+    border: 1px solid #029d75;
     height: 50px;
-    width: 25%;
-    color: purple;
+    width: 50%;
     font-weight: bold;
+    
+}
+
+textarea{
+    width:50%;
+    border: 1px solid #029d75;
+    
 }
 
 button{
-    color: blue;
-    height: 25px;
     font-weight: bold;
+    height: 50px;
+    width: 50%;
 }
 
 
