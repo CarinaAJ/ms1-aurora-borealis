@@ -78,7 +78,7 @@ header {}
     display: block;
     text-align: justify;
     font-size: 18px;
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px #363636;
     
 
 }
@@ -149,7 +149,7 @@ footer {
     display: block;
     text-align: justify;
     font-size: 18px;
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px #363636;
 
 }
 
