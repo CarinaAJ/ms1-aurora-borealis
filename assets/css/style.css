@@ -204,10 +204,10 @@ label{
 }
 
 
-input{
+textarea, input{
     border: 1px solid orangered;
     height: 50px;
-    width: 30%;
+    width: 25%;
     color: purple;
     font-weight: bold;
 }
