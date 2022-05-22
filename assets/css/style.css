@@ -177,7 +177,7 @@ h4 {
 /* contact page  */
 
 #sign-up-intro{
-    text-align: left;
+    text-align: center;
 }
 
 #contact-form{
@@ -185,8 +185,8 @@ h4 {
     text-align: center;
     border: 2px solid red;
     box-sizing: border-box;
-    width: 40%;
-    
+    margin-left: 25%;
+    margin-right: 25%;
     
 }
 
