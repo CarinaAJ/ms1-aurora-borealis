@@ -140,6 +140,20 @@ footer {
     display: block;
 }
 
+#introduction{
+    margin: 60px;
+    border-radius: 25px;
+    padding: 30px;
+    display: block;
+    text-align: justify;
+    font-size: 18px;
+    
+}
+
+#audio-container{
+    width: 50%;
+}
+
 .fun-facts {
 
     margin: 60px;
@@ -227,6 +241,6 @@ button{
 }
 
 
-
+/* thank you page */
 
 /* media queries */
