@@ -14,7 +14,6 @@
 
 <body>
     <!-- header -->
-
     <header>
         <h1 id="logo">Aurora Borealis</h1>
         <nav>
@@ -29,46 +28,45 @@
     <!-- aurora hero banner -->
     <div id="aurora-banner-third"></div>
 
-    <div id="contact-header">
-        <h2>Still curious?</h2><br>
-        <p>Leave your details below and we send you a monthly newsletter with everything you want to know about the
-            Northern Lights</p><br>
-    </div>
+    <h2>Still curious?</h2><br>
+    <p>Leave your details below and we send you a monthly newsletter with everything you want to know about
+        the
+        Northern Lights</p><br>
 
-    <!-- form -->
+    <!-- contact form  -->
+    <form>
+        <fieldset>
+            <legend>Your Details</legend><br>
+            <div class="user-input">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="fname" placeholder="Jon" required>
+            </div>
 
-   
-        <form>
-            <fieldset>
-                <legend>Your Details: <i class="fa-solid fa-info"></i></legend>
-                <div class="form-input">
-                    <label for="fname">First name:</label>
-                    <input type="text" id="fname" name="fname">
-                </div>
+            <div class="user-input">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lname" placeholder="Doe" required>
+            </div>
 
-                <div class="form-input">
-                    <label for="lname">Last name:</label>
-                    <input type="text" id="lname" name="lname">
-                </div>
+            <div class="user-input">
+                <label for="phone">Phone</label>
+                <input type="phone" id="phone" name="phone" placeholder="+1234566790">
 
-                <div class="form-input">
-                    <label for="email">Email:</label>
-                    <input type="email" id="email" name="email">
-                </div>
+            </div>
 
-                <div class="form-input">
-                    <label for="Comment">Leave a comment:</label>
-                    <input type="text" id="comment" name="comment">
-                </div>
+            <div class="user-input">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="jondoe@example.com"required>
+            </div>
 
-                <div class="form-input">
-                    <input type="submit">
-                </div>
+            <div class="user-input">
+                <label for="comment">Leave a comment</label>
+                <textarea id="comment" name="comment" rows="4" cols="10"></textarea>
+            </div>
 
-            </fieldset>
-        </form>
-   
-
+            <button type="submit">SUBMIT</button>
+            <input type="reset" value="Reset Form">
+        </fieldset>
+    </form>
 
     <!-- footer -->
     <footer>
@@ -92,7 +90,6 @@
     </footer>
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/dbcbc8ead3.js" crossorigin="anonymous"></script>
-
 </body>
 
 </html>
