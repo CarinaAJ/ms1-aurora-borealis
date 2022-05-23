@@ -13,8 +13,7 @@ html, body{
 body {
     font-family: 'Roboto Flex', sans-serif;
     background-color: #bebebe;
-    color: black;
-
+    
 }
 
 
@@ -177,8 +176,17 @@ h4 {
 
 #live-cams a {
     text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
 }
 
+#live-cams a:hover{
+    color: #029d75;
+    transition-duration: 1s;
+}
+
+
+/* contact page  */
 
 #aurora-banner-third {
     background: url('../images/p1-aurora-banner3.jpg') no-repeat center center;
@@ -187,7 +195,6 @@ h4 {
     margin: 80px 0 50px 0;
 }
 
-/* contact page  */
 
 #sign-up-intro{
     text-align: center;
