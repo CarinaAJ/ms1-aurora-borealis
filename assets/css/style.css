@@ -18,7 +18,6 @@ body {
 }
 
 
-
 /* h1 and navigation when decided on body font size adjust h1 if needed */
 
 header {}
@@ -80,7 +79,6 @@ header {}
     font-size: 18px;
     box-shadow: 5px 10px #363636;
     
-
 }
 
 .video-container {
