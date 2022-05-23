@@ -127,13 +127,22 @@ footer {
     margin: 80px 0 50px 0;
 }
 
-/* if time revert back to it */
-.hide{
+/* Hover and reveal for fun facts */
+
+.hide-fact{
     display: none;
+    
 }
 
-.reveal + .hide{
+
+.fun-facts:hover .hide-fact{
     display: block;
+
+}
+
+.hover-me:hover{
+    transition-duration: 1s;
+  
 }
 
 #introduction{
@@ -148,6 +157,16 @@ footer {
 
 #audio-container{
     width: 50%;
+    
+}
+
+#explain-hover{
+    margin: 60px;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
     
 }
 
