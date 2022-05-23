@@ -61,7 +61,6 @@ header {}
     height: 500px;
     margin: 80px 0 50px 0;
 
-
 }
 
 
@@ -197,7 +196,6 @@ h4 {
 #contact-form{
     padding: 10px;
     text-align: center;
-    border: 3px solid #029d75;;
     box-sizing: border-box;
     margin-left: 25%;
     margin-right: 25%;
@@ -211,6 +209,7 @@ legend{
 
 .user-input{
     margin-bottom: 25px;
+    font-weight: bold;
     
 }
 
@@ -242,7 +241,7 @@ button{
 
 button:hover{
     background-color:#029d75;
-    transition-duration: 1.5s;
+    transition-duration: 1s;
 }
 
 
