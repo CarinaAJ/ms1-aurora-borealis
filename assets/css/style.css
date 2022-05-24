@@ -265,11 +265,9 @@ button:hover {
 
 /* thank you page */
 
-#thank-you-img {
-    background: url('../images/thank-you-img.jpg');
-    background-repeat: no-repeat;
-    height: 700px;
-    width: 100%;
+#thank-you-container{
+    text-align: center;
+    padding-top: 50px;
 }
 
 /* media queries */
