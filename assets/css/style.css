@@ -23,40 +23,41 @@ body {
 #logo {
     font-size: 3em;
     margin-left: 50px;
-    display: inline;
+    color:green;
+    
 }
+
 
 #navbar {
     float: right;
     list-style-type: none;
+    
+    
     
 }
 
 #logo,
 #navbar {
     background-color: yellow;
+   
     
 }
 
 #navbar a {
     text-decoration: none;
     font-size: 25px;
-
+   
 }
 
-#navbar>ul{
-    display: inline;
-}
 
 /* float left doesn't seem needed here ?*/
 
 #navbar li {
-    
+    float: left;
     display: inline;
     margin-right: 50px;
 
 }
-
 
 /* aurora hero banner */
 
@@ -100,12 +101,15 @@ iframe {
 
 footer {
     padding: 60px;
-
+    display: block;  
+    text-align: center;
 }
+
+/* doesn't need text-align center? #social-media */
 
 #social-media {
     list-style-type: none;
-    text-align: center;
+    
 
 }
 
