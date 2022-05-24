@@ -20,7 +20,6 @@ body {
 
 /* h1 and navigation when decided on body font size adjust h1 if needed */
 
-
 #logo {
     font-size: 3em;
     margin-left: 50px;
@@ -30,29 +29,33 @@ body {
 #navbar {
     float: right;
     list-style-type: none;
-
+    
 }
-
 
 #logo,
 #navbar {
     background-color: yellow;
-
+    
 }
 
 #navbar a {
     text-decoration: none;
     font-size: 25px;
 
-
 }
 
+#navbar>ul{
+    display: inline;
+}
+
+/* float left doesn't seem needed here ?*/
+
 #navbar li {
-    float: left;
+    
+    display: inline;
     margin-right: 50px;
 
 }
-
 
 
 /* aurora hero banner */
