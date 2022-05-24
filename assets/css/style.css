@@ -110,7 +110,6 @@ footer {
 #social-media {
     list-style-type: none;
     
-
 }
 
 #social-media li {
@@ -137,18 +136,6 @@ footer {
     margin: 80px 0 50px 0;
 }
 
-/* Hover and reveal for fun facts */
-
-.hide-fact {
-    display: none;
-
-}
-
-.fun-facts:hover .hide-fact {
-    display: block;
-    transition-duration: 5s;
-
-}
 
 #introduction {
     margin: 60px;
