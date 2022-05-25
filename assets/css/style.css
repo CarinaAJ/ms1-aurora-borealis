@@ -23,30 +23,28 @@ body {
 #logo {
     font-size: 3em;
     margin-left: 50px;
-    color:green;
-    
+    color: green;
+
 }
 
 
 #navbar {
     float: right;
     list-style-type: none;
-    
-    
-    
+
 }
 
 #logo,
 #navbar {
     background-color: yellow;
-   
-    
+
+
 }
 
 #navbar a {
     text-decoration: none;
     font-size: 25px;
-   
+
 }
 
 
@@ -101,7 +99,7 @@ iframe {
 
 footer {
     padding: 60px;
-    display: block;  
+    display: block;
     text-align: center;
 }
 
@@ -109,7 +107,7 @@ footer {
 
 #social-media {
     list-style-type: none;
-    
+
 }
 
 #social-media li {
@@ -265,7 +263,7 @@ button:hover {
 
 /* thank you page */
 
-#thank-you-container{
+#thank-you-container {
     text-align: center;
     padding-top: 50px;
 }
@@ -274,4 +272,9 @@ button:hover {
 
 /* For large screens and desktops of 1200px and down  */
 
-@media screen (max-width: 1200px) {}
+@media screen and (max-width: 1200px){
+
+    #audio-container {
+        width: 100%;
+    }
+}
