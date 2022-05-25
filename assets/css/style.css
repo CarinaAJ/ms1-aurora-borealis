@@ -277,4 +277,9 @@ button:hover {
     #audio-container {
         width: 100%;
     }
+
+    #contact-form{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
