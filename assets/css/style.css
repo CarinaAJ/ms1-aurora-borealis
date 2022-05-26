@@ -146,13 +146,16 @@ footer {
     border-radius: 25px;
     padding: 30px;
     display: block;
-    text-align: justify;
+    text-align: center;
     font-size: 18px;
 
 }
 
 #audio-container {
-    width: 50%;
+    width: 70%;
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 15%;
 
 }
 
