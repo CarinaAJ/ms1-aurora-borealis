@@ -285,3 +285,44 @@ button:hover {
         margin-right: 10%;
     }
 }
+
+/* For small devices of 600px */
+
+@media screen and (max-width: 600px){
+
+    #header-flex{
+        text-align: center;
+        display: block;
+
+    }
+    
+    #navbar li{
+        display: inline;
+        text-align: center;
+        
+    }
+
+    .main-section{
+        width: 70%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .video-container{
+        margin:30px;
+        width: 120%;
+        text-align:center;
+        display: block;
+        
+    }
+
+    .main-section{
+        margin-bottom: 30px;
+       
+    }
+
+    footer{
+        display: inline;
+    }
+    
+}
