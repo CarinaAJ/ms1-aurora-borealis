@@ -33,7 +33,8 @@ body {
 }
 
 #header-flex a:hover{
-    color: #029d75;;
+    color: #029d75;
+    transition-duration: 1.5s;
 }
 
 #logo{
