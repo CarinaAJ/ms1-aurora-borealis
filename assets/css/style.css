@@ -133,7 +133,7 @@ footer {
 
 /* fun fact page */
 
-#aurora-banner-second {
+#aurora-banner-two {
     background: url('../images/p1-aurora-banner2.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
@@ -206,7 +206,7 @@ h4 {
 
 /* contact page  */
 
-#aurora-banner-third {
+#aurora-banner-three {
     background: url('../images/p1-aurora-banner3.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
@@ -276,6 +276,15 @@ button:hover {
     text-align: center;
     padding-top: 50px;
 }
+
+#aurora-banner-four {
+    background: url('../images/p1-aurora-banner4\(4\).jpg');
+    background-position: left bottom;
+    width: 100%;
+    height: 500px;
+    margin: 50px 0 50px 0;
+}
+
 
 /* media queries */
 
