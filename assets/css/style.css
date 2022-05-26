@@ -318,11 +318,24 @@ button:hover {
 
     .main-section{
         margin-bottom: 30px;
+        text-align: justify;
        
     }
 
     footer{
         display: inline;
     }
+
+    .fun-facts{
+        letter-spacing: 2px;
+        margin: 50px;
+        
+    }
+
+    #audio-container{
+        text-align: center;
+        width: 100%;
+    }
+
     
 }
