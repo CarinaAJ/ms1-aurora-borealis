@@ -90,6 +90,7 @@ body {
 .video-container {
     display: block;
     text-align: center;
+    
 
 }
 
@@ -273,9 +274,9 @@ button:hover {
 }
 
 
-/* media queries */
+/* media queries DO LAST
 
-/* For large screens and desktops of 1200px and down  */
+For large screens and desktops of 1200px and down 
 
 @media screen and (max-width: 1200px){
 
@@ -290,7 +291,9 @@ button:hover {
     }
 }
 
-/* For small devices of 600px */
+ */
+
+ /* For extra small devices of 600px and down */
 
 @media screen and (max-width: 600px){
 
@@ -305,11 +308,7 @@ button:hover {
 
     }
  
-    #navbar li{
-        display: inline;
-        text-align: center;
-        
-    }
+  
 
     .main-section{
         width: 70%;
@@ -317,11 +316,11 @@ button:hover {
         margin: 0 auto;
     }
 
+    /* video container needs adjusting */
 
     .video-container{
        padding: 20px;
-        margin: 0 auto;
-        
+       
     }
   
     .main-section{
@@ -337,9 +336,9 @@ button:hover {
     #audio-container{
         width: 180%;
         text-align: left;
-        
+         
      }
- 
+
 
     .fun-facts{
         letter-spacing: 2px;
@@ -347,5 +346,19 @@ button:hover {
         
     }
 
-    
+    #contact-form{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #aurora-banner-four{
+        background-position: right;
+        margin-bottom: 0;
+        
+    }
 }
+
+
+
+
+
