@@ -304,7 +304,6 @@ button:hover {
         display: block;
 
     }
-
  
     #navbar li{
         display: inline;
@@ -318,13 +317,16 @@ button:hover {
         margin: 0 auto;
     }
 
+
     .video-container{
-        margin:30px;
-        width: 120%;
-        text-align:center;
-        display: block;
+        width: 150%;
+        margin: 0 auto;
         
     }
+  
+
+
+
 
     .main-section{
         margin-bottom: 30px;
@@ -336,15 +338,17 @@ button:hover {
         display: inline;
     }
 
+    #audio-container{
+        width: 180%;
+        text-align: left;
+        
+     }
+ 
+
     .fun-facts{
         letter-spacing: 2px;
         margin: 50px;
         
-    }
-
-    #audio-container{
-        text-align: center;
-        width: 100%;
     }
 
     
