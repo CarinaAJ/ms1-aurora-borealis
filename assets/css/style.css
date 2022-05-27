@@ -319,15 +319,11 @@ button:hover {
 
 
     .video-container{
-        width: 150%;
+       padding: 20px;
         margin: 0 auto;
         
     }
   
-
-
-
-
     .main-section{
         margin-bottom: 30px;
         text-align: justify;
