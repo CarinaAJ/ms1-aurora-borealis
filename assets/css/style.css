@@ -307,8 +307,19 @@ For large screens and desktops of 1200px and down
         display: block;
 
     }
+
+    #logo{
+        margin: 0 0 20px 0;
+    }
  
-  
+    #navbar{
+        display: flex;
+        
+    }
+
+    #navbar li{
+        margin: 0 auto;
+    }
 
     .main-section{
         width: 70%;
