@@ -333,7 +333,7 @@ For large screens and desktops of 1200px and down
        
     }
 
-    iframe{
+    .youtube-video{
         width: 80%;
     }
   
@@ -355,7 +355,7 @@ For large screens and desktops of 1200px and down
 
     .fun-facts{
         letter-spacing: 2px;
-        margin: 50px;
+        margin: 30px;
         
     }
 
