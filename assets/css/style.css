@@ -293,7 +293,7 @@ For large screens and desktops of 1200px and down
 
  */
 
- /* For extra small devices of 600px and down */
+ /* Media queries for devices of 600px and down */
 
 @media screen and (max-width: 600px){
 
@@ -324,9 +324,8 @@ For large screens and desktops of 1200px and down
         width: 70%;
         text-align: center;
         margin: 0 auto;
-    }
 
-    /* video container needs adjusting */
+    }
 
     .video-container{
        padding: 20px;
@@ -335,6 +334,7 @@ For large screens and desktops of 1200px and down
 
     .youtube-video{
         width: 80%;
+
     }
   
     .main-section{
@@ -345,6 +345,7 @@ For large screens and desktops of 1200px and down
 
     footer{
         display: inline;
+
     }
 
     #audio-container{
@@ -362,6 +363,7 @@ For large screens and desktops of 1200px and down
     #contact-form{
         margin-left: 10%;
         margin-right: 10%;
+
     }
 
     #aurora-banner-four{
@@ -371,7 +373,52 @@ For large screens and desktops of 1200px and down
     }
 }
 
+/* For devices 601px and up */
 
+@media screen and (min-width:601px) {
+
+    body, html{
+        overflow-x: hidden;
+    }
+
+    #header-flex{
+        display: block;
+        text-align: center;
+    }
+
+    #logo{
+        margin: 0 0 20px 0;
+    }
+ 
+    #navbar{
+        display: flex;
+        
+    }
+
+    #navbar li{
+        margin: 0 auto;
+    }
+   
+    .main-section{
+        width: 80%;
+        margin: 0 auto;
+        
+    }
+
+    .video-container{
+        padding: 25px;
+    }
+
+    .youtube-video{
+        width: 85%;
+    }
+
+    footer{
+        display: inline;
+        
+    }
+    
+}
 
 
 
