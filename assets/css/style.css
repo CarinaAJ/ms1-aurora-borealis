@@ -401,7 +401,7 @@ For large screens and desktops of 1200px and down
    
     .main-section{
         width: 80%;
-        margin: 0 auto;
+        margin: 25px;
         
     }
 
@@ -417,8 +417,23 @@ For large screens and desktops of 1200px and down
         display: inline;
         
     }
+
+    #introduction{
+        margin: 30px;
+        padding: 0;
+    }
+
+    #audio-container{
+        width: 180%;
+        text-align: left;
+         
+     }
+
+     .fun-facts{
+         margin: 30px;
+     }
     
 }
-
+ 
 
 
