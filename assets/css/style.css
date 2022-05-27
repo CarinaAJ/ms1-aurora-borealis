@@ -438,6 +438,10 @@ For large screens and desktops of 1200px and down
          margin: 0 auto;
      }
     
+     #aurora-banner-four{
+         background-position: right;
+         margin-bottom: 0;
+     }
 }
  
 
