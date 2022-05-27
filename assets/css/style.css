@@ -433,6 +433,10 @@ For large screens and desktops of 1200px and down
      .fun-facts{
          margin: 30px;
      }
+
+     #contact-form{
+         margin: 0 auto;
+     }
     
 }
  
