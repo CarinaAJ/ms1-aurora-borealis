@@ -294,12 +294,18 @@ button:hover {
 
 @media screen and (max-width: 600px){
 
+
+    body, html{
+        overflow-x: hidden;
+    }
+
     #header-flex{
         text-align: center;
         display: block;
 
     }
-    
+
+ 
     #navbar li{
         display: inline;
         text-align: center;
