@@ -415,6 +415,7 @@ For large screens and desktops of 1200px and down
 
     footer{
         display: inline;
+        padding-bottom: 10px;
         
     }
 
