@@ -23,6 +23,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
+    line-height: 50px;
     
 }
 
@@ -55,10 +56,6 @@ body {
 
 #navbar li{
     margin-right: 50px;
-}
-
-#header-flex{
-    line-height: 50px;
 }
 
 /* aurora hero banner */
@@ -94,7 +91,7 @@ body {
 
 }
 
-iframe {
+.youtube-video {
     height: 400px;
     width: 40%;
 }
@@ -274,11 +271,11 @@ button:hover {
 }
 
 
-/* media queries DO LAST
 
-For large screens and desktops of 1200px and down 
 
-@media screen and (max-width: 1200px){
+/* For large screens and desktops of 1200px and down  
+
+@media screen and (min-width: 1200px){
 
     #audio-container {
         text-align: center;
@@ -290,8 +287,9 @@ For large screens and desktops of 1200px and down
         margin-right: 10%;
     }
 }
+*/
 
- */
+ 
 
  /* Media queries for devices of 600px and down */
 
@@ -444,5 +442,63 @@ For large screens and desktops of 1200px and down
      }
 }
  
+/* For devices 1200px and up */
 
+@media screen and (min-width:1200px){
+
+    #header-flex{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+        line-height: 50px;
+    }
+
+    #logo{
+        margin-left: 30px;
+    }
+
+    #navbar li{
+        margin-right: 50px;
+
+    }
+
+    .main-section{
+        margin: 20px auto;
+        
+    }
+
+    .video-container{
+        display: block;
+        text-align: center;
+        padding: 30px;
+        
+    }
+
+    .youtube-video{
+        width: 60%;
+        
+    }
+
+    footer{
+        display: inline;
+        
+    }
+
+    #audio-container{
+        width: 70%;
+        text-align: center;
+        margin-right: 15%;
+        margin-left: 15%;
+        
+    }
+
+    #sound-cloud{
+        height: 300px;
+    }
+
+    #contact-form{
+        padding: 80px;
+    }
+    
+}
 
