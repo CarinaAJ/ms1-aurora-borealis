@@ -272,6 +272,7 @@ button:hover {
 
 @media screen and (max-width: 425px) {
 
+
     #audio-container{
         display: flex;
         justify-content: center;
@@ -287,6 +288,11 @@ button:hover {
 
     #comment{
         min-width: 100%;
+    }
+
+    #thanks{
+        text-align: justify;
+        padding: 20px;
     }
 }
 
