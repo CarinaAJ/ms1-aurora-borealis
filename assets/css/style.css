@@ -448,6 +448,15 @@ button:hover {
 
 }
 
+/* For devices 1024px and up */
+
+@media screen and (min-width:1024px) {
+
+    .youtube-video{
+        width: 50%;
+    }
+    
+}
 
 /* For devices 1200px and up */
 
