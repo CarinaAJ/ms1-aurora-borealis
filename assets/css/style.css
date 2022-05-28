@@ -277,7 +277,17 @@ button:hover {
         justify-content: center;
     }
 
-    
+    fieldset{
+        padding: 30px;
+    }
+
+    input{
+        min-width: 100%;
+    }
+
+    #comment{
+        min-width: 100%;
+    }
 }
 
 /* Media queries for devices of 550px and down */
