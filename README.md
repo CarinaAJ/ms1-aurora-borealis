@@ -1,6 +1,6 @@
 # Aurora Borealis 
 
-<h2 align="center"><img src="wireframes/am-i-responsive.jpg"></h2>
+<h2 align="center"><img src="readme-assets/am-i-responsive.jpg"></h2>
 
 <hr>
 
@@ -14,7 +14,7 @@ Despite the Aurora Borealis being a very visual topic I decided to only implemen
 site. To soften the contrast but still highlight the colorful hero banners I chose a light grey color as background color. Apart from the logo and navigation menu
 the text color is black. As black was a bit too harsh as header I decided to go for a very dark blue color instead.
 
-![Background color](wireframes/background-color.jpg) ![Menu color before hover](wireframes/menu-color.jpg)
+![Background color](readme-assets/background-color.jpg) ![Menu color before hover](readme-assets/menu-color.jpg)
 
 Features
 
