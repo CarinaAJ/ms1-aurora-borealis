@@ -1,108 +1,131 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Aurora Borealis
 
-Welcome CarinaAJ,
+![description]('https://carinaaj-ms1auroraborea-xn4p35dnmq7.ws-eu46.gitpod.io/workspace/wirefranes/am-i-responsive.jpg')
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+With this site I want to give users who are interested, a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should he wish to get more information than what the site is currently offering.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+INSERT SCREENSHOTS OF WEBPAGE ON DIFFERENT DEVICES
 
-## Gitpod Reminders
+Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+(In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.)
 
-`python3 -m http.server`
+Existing Features:
 
-A blue button should appear to click: _Make Public_,
+Navigation Bar
 
-Another blue button should appear to click: _Open Browser_.
+To provide the user with an easy navigation across all three pages the header includes the navigation bar at the top right hand corner and the logo ‘Aurora Borealis’ in the top left corner to create some space in between both and make it clear on first sight what the site is about and where the navigation can be found. The navigation bar is made out of the Home, Fun Fact and Contact page. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: _Make Public_,
+The landing page banners
 
-Another blue button should appear to click: _Open Browser_.
+Each page consists of a different hero banner to show the variety of the Aurora and keep the interest of the user rather than using the same image across all pages. In addition it should also intrigue the user to learn more about it and to go through all three pages. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+Landing Page (Home)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+This page provides a brief explanation about 1) What the Aurora Borealis is 2) Where the best places are to see it and 3) When the best time is to see it
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Whilst the explanations are relatively brief, there is still an indention in each section to make it easier readable. Every question (and answer) has been separated with its own textbox for easy reading and without overwhelming the user by one large paragraph of text. 
 
-------
+After the first question is a short video of 4 min also answering the question ‘What is an aurora’ to provide the user not only with textual content but also with a visual. 
 
-## Release History
+The second section follows the same scheme. First a brief explanation, followed by a Youtube video for some visuals.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+The third section, whilst still being one of the most asked questions, when the best time is to see the Northern Lights is a paragraph only without any further visual. However, to make it easy on first glance what the question is about I decided to add a little calendar icon next to the question.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+Footer
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The footer section features links to four social media sites and upon clicking, a new tab will open.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+As the most common colour for the Aurora is green I decided to color pick a light turquoise from the first hero banner and use it as hover color for the social media links with a nice transition duration.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Fun Facts (second page)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Fun Facts
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+To provide a bit more ‘lighter’ information (as supposed to only being scientific) I decided to add some fun facts about the Aurora on this page. 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+Introduction:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+As this page does not contain any visuals I decided to add some audio instead so the user can listen to some nice and calming music whilst reading about the Aurora. The Track is called ‘Northern Lights’ and has been written for this project.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+To follow the same style I separated each fun fact in it’s own textbox and also used indentions where necessary to make it easier to read.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+The last textbox makes the user aware that there are live cam links available where the Aurora can be seen from the comfort of their own home. Three links have been provided which all open in a new tab. To keep the same colour scheme the hover colour is the same as the social media links.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Contact (third page)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
+This page allows the user to leave some details, should he wish to receive a monthly newsletter about the Aurora Borealis. All input fields have a border around which is the same turquoise colour which has been used for the social media links hover. The submit button has also been supplied with the same background colour when hovering over it.
 
-## FAQ about the uptime script
+Upon submitting the form the user will be redirected to a new page, which will thank him for signing up and inform him that someone will be in touch within 48 hrs.
 
-**Why have you added this script?**
+—--------> IMPLEMENT THANK YOU PAGE
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
+Future Features
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Gallery
+A page just for children with child-friendly explanations
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+Testing
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-**So….?**
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-**Can I opt out?**
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+Validator Testing
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+HTML
+No errors were returned when passing through the official W3C validator
 
-**Anything more?**
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+Unfixed Bugs
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
----
+Deployment
 
-Happy coding!
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab.
+
+On the left-hand side under ‘Code and automation’, select ‘Pages’ and from the 
+
+source section drop-down menu, select the Master Branch.
+
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - 
+https://carinaaj.github.io/ms1-aurora-borealis/
+
+
+Credits
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
+
+You can break the credits section up into Content and Media, depending on what you have included in your project.
+
+Content
+The text for the Home page was taken from Wikipedia Article A
+Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
+The icons in the footer were taken from Font Awesome
+
+
+Media
+
+The photos used on the home and sign up page are from This Open Source site
+The images used for the gallery page were taken from this other open source site
+Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+
+
+
+
+
+
