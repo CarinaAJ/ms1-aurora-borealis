@@ -1,6 +1,6 @@
-Aurora Borealis
+# Aurora Borealis
 
-![description]('https://carinaaj-ms1auroraborea-xn4p35dnmq7.ws-eu46.gitpod.io/workspace/wirefranes/am-i-responsive.jpg')
+![description](wireframes/am-i-responsive.jpg)
 
 With this site I want to give users who are interested, a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should he wish to get more information than what the site is currently offering.
 
