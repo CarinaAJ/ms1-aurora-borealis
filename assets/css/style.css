@@ -272,6 +272,11 @@ button:hover {
 
 @media screen and (max-width: 425px) {
 
+    #introduction{
+        margin: 20px;
+        padding: 20px;
+    }
+
 
     #audio-container{
         display: flex;
