@@ -552,4 +552,9 @@ button:hover {
         width: 33%;
     }
 
+    #contact-form{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
 }
