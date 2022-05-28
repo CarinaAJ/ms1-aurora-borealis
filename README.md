@@ -48,6 +48,8 @@ To provide a bit more ‘lighter’ information (as supposed to only being scien
 
 Introduction:
 
+This is a test test test 
+
 As this page does not contain any visuals I decided to add some audio instead so the user can listen to some nice and calming music whilst reading about the Aurora. The Track is called ‘Northern Lights’ and has been written for this project.
 
 To follow the same style I separated each fun fact in it’s own textbox and also used indentions where necessary to make it easier to read.
