@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-
 }
 
 html,
@@ -14,7 +13,6 @@ body {
 body {
     font-family: 'Roboto Flex', sans-serif;
     background-color: #bebebe;
-
 }
 
 /* header menu */
@@ -24,7 +22,6 @@ body {
     justify-content: space-between;
     margin-top: 30px;
     line-height: 50px;
-
 }
 
 #header-flex a {
@@ -45,7 +42,6 @@ body {
 #navbar {
     display: flex;
     list-style-type: none;
-
 }
 
 #navbar a {
@@ -65,7 +61,6 @@ body {
     width: 100%;
     height: 500px;
     margin: 50px 0 50px 0;
-
 }
 
 /* main section */
@@ -81,13 +76,11 @@ body {
     text-align: justify;
     font-size: 18px;
     box-shadow: 5px 10px #363636;
-
 }
 
 .video-container {
     display: block;
     text-align: center;
-
 }
 
 .youtube-video {
@@ -107,7 +100,6 @@ footer {
 
 #social-media {
     list-style-type: none;
-
 }
 
 #social-media li {
@@ -149,7 +141,6 @@ footer {
     text-align: center;
     margin-right: 15%;
     margin-left: 15%;
-
 }
 
 .fun-facts {
@@ -173,7 +164,6 @@ h4 {
 #live-cams {
     list-style-type: none;
     line-height: 30px;
-
 }
 
 #live-cams a {
@@ -208,18 +198,15 @@ h4 {
     margin-left: 25%;
     margin-right: 25%;
     letter-spacing: 1px;
-
 }
 
 legend {
     font-size: 25px;
-
 }
 
 .user-input {
     margin-bottom: 25px;
     font-weight: bold;
-
 }
 
 label {
@@ -232,13 +219,11 @@ input {
     height: 50px;
     width: 50%;
     font-weight: bold;
-
 }
 
 textarea {
     width: 50%;
     border: 1px solid #029d75;
-
 }
 
 button {
@@ -257,7 +242,6 @@ button:hover {
 #thank-you-container {
     text-align: center;
     padding: 50px 0 60px 0;
-
 }
 
 #aurora-banner-four {
@@ -311,8 +295,7 @@ button:hover {
 
     #social-media{
         display: flex;
-        justify-content: space-evenly;
-        
+        justify-content: space-evenly;   
     }
 
 }
@@ -329,7 +312,6 @@ button:hover {
     #header-flex {
         text-align: center;
         display: block;
-
     }
 
     #logo {
@@ -338,7 +320,6 @@ button:hover {
 
     #navbar {
         display: flex;
-
     }
 
     #navbar li {
@@ -349,28 +330,23 @@ button:hover {
         width: 70%;
         text-align: center;
         margin: 0 auto;
-
     }
 
     .video-container {
         padding: 20px;
-
     }
 
     .youtube-video {
         width: 80%;
-
     }
 
     .main-section {
         margin-bottom: 30px;
         text-align: justify;
-
     }
 
     footer {
         display: inline;
-
     }
 
     #audio-container {
@@ -387,19 +363,16 @@ button:hover {
     .fun-facts {
         letter-spacing: 2px;
         margin: 30px;
-
     }
 
     #contact-form {
         margin-left: 10%;
         margin-right: 10%;
-
     }
 
     #aurora-banner-four {
         background-position: right;
         margin-bottom: 0;
-
     }
 }
 
@@ -423,7 +396,6 @@ button:hover {
 
     #navbar {
         display: flex;
-
     }
 
     #navbar li {
@@ -433,7 +405,6 @@ button:hover {
     .main-section {
         width: 80%;
         margin: 25px;
-
     }
 
     .video-container {
@@ -447,7 +418,6 @@ button:hover {
     footer {
         display: inline;
         padding-bottom: 10px;
-
     }
 
     #introduction {
@@ -458,7 +428,6 @@ button:hover {
     #audio-container {
         width: 100%;
         margin: 0 auto;
-
     }
 
     #sound-cloud {
@@ -489,8 +458,7 @@ button:hover {
     }
 
     footer {
-        margin-top: 20px;
-        
+        margin-top: 20px;   
     }
 
 }
@@ -501,8 +469,7 @@ button:hover {
 
     .youtube-video{
         width: 50%;
-    }
-    
+    } 
 }
 
 /* For devices 1200px and up */
@@ -522,29 +489,24 @@ button:hover {
 
     #navbar li {
         margin-right: 50px;
-
     }
 
     .main-section {
         margin: 20px auto;
-
     }
 
     .video-container {
         display: block;
         text-align: center;
         padding: 30px;
-
     }
 
     .youtube-video {
         width: 60%;
-
     }
 
     footer {
         display: inline;
-
     }
 
     #audio-container {
@@ -552,7 +514,6 @@ button:hover {
         text-align: center;
         margin-right: 15%;
         margin-left: 15%;
-
     }
 
     #sound-cloud {
