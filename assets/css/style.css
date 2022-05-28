@@ -19,42 +19,42 @@ body {
 
 /* header menu */
 
-#header-flex{
+#header-flex {
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
     line-height: 50px;
-    
+
 }
 
-#header-flex a{
+#header-flex a {
     text-decoration: none;
     color: #081f37;
 }
 
-#header-flex a:hover{
+#header-flex a:hover {
     color: #029d75;
     transition-duration: 1.5s;
 }
 
-#logo{
+#logo {
     font-size: 50px;
     margin-left: 50px;
 }
 
-#navbar{
+#navbar {
     display: flex;
     list-style-type: none;
-    
+
 }
 
-#navbar a{
+#navbar a {
     text-decoration: none;
     font-size: 25px;
     font-weight: bold;
 }
 
-#navbar li{
+#navbar li {
     margin-right: 50px;
 }
 
@@ -87,7 +87,7 @@ body {
 .video-container {
     display: block;
     text-align: center;
-    
+
 
 }
 
@@ -164,7 +164,7 @@ footer {
     font-size: 18px;
     box-shadow: 5px 10px #363636;
     letter-spacing: 1px;
-    
+
 
 }
 
@@ -259,7 +259,7 @@ button:hover {
 #thank-you-container {
     text-align: center;
     padding: 50px 0 60px 0;
-    
+
 }
 
 #aurora-banner-four {
@@ -270,109 +270,89 @@ button:hover {
     margin: 50px 0 50px 0;
 }
 
+/* Media queries for devices of 600px and down */
 
+@media screen and (max-width: 600px) {
 
-
-/* For large screens and desktops of 1200px and down  
-
-@media screen and (min-width: 1200px){
-
-    #audio-container {
-        text-align: center;
-        
-    }
-
-    #contact-form{
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-}
-*/
-
- 
-
- /* Media queries for devices of 600px and down */
-
-@media screen and (max-width: 600px){
-
-    body, html{
+    body,
+    html {
         overflow-x: hidden;
     }
 
-    #header-flex{
+    #header-flex {
         text-align: center;
         display: block;
 
     }
 
-    #logo{
+    #logo {
         margin: 0 0 20px 0;
     }
- 
-    #navbar{
+
+    #navbar {
         display: flex;
-        
+
     }
 
-    #navbar li{
+    #navbar li {
         margin: 0 auto;
     }
 
-    .main-section{
+    .main-section {
         width: 70%;
         text-align: center;
         margin: 0 auto;
 
     }
 
-    .video-container{
-       padding: 20px;
-       
+    .video-container {
+        padding: 20px;
+
     }
 
-    .youtube-video{
+    .youtube-video {
         width: 80%;
 
     }
-  
-    .main-section{
+
+    .main-section {
         margin-bottom: 30px;
         text-align: justify;
-       
+
     }
 
-    footer{
+    footer {
         display: inline;
 
     }
 
-    #audio-container{
+    #audio-container {
         width: 100%;
         text-align: center;
         margin: 0 auto;
-     }
-     
-     #sound-cloud{
-        height: 300px;
-     }
-     
-
-    .fun-facts{
-        letter-spacing: 2px;
-        margin: 30px;
-        
     }
 
-    #contact-form{
+    #sound-cloud {
+        height: 300px;
+    }
+
+
+    .fun-facts {
+        letter-spacing: 2px;
+        margin: 30px;
+
+    }
+
+    #contact-form {
         margin-left: 10%;
         margin-right: 10%;
 
     }
 
-    #aurora-banner-four{
+    #aurora-banner-four {
         background-position: right;
         margin-bottom: 0;
-        
+
     }
 }
 
@@ -380,134 +360,171 @@ button:hover {
 
 @media screen and (min-width:601px) {
 
-    body, html{
+    body,
+    html {
         overflow-x: hidden;
     }
 
-    #header-flex{
+    #header-flex {
         display: block;
         text-align: center;
     }
 
-    #logo{
+    #logo {
         margin: 0 0 20px 0;
     }
- 
-    #navbar{
+
+    #navbar {
         display: flex;
-        
+
     }
 
-    #navbar li{
+    #navbar li {
         margin: 0 auto;
     }
-   
-    .main-section{
+
+    .main-section {
         width: 80%;
         margin: 25px;
-        
+
     }
 
-    .video-container{
+    .video-container {
         padding: 25px;
     }
 
-    .youtube-video{
+    .youtube-video {
         width: 85%;
     }
 
-    footer{
+    footer {
         display: inline;
         padding-bottom: 10px;
-        
+
     }
 
-    #introduction{
+    #introduction {
         margin: 30px;
         padding: 0;
     }
 
-    #audio-container{
+    #audio-container {
         width: 100%;
         margin: 0 auto;
-         
-     }
 
-     #sound-cloud{
-         height: 300px;
-     }
+    }
 
-     .fun-facts{
-         margin: 30px;
-     }
+    #sound-cloud {
+        height: 300px;
+    }
 
-     #contact-form{
-         margin: 0 auto;
-     }
-    
-     #aurora-banner-four{
-         background-position: right;
-         margin-bottom: 0;
-     }
+    .fun-facts {
+        margin: 30px;
+    }
+
+    #contact-form {
+        margin: 0 auto;
+    }
+
+    #aurora-banner-four {
+        background-position: right;
+        margin-bottom: 0;
+    }
 }
- 
+
+
+/* For devices 768px and up */
+
+@media screen and (min-width:768px) {
+
+    .main-section {
+        margin: 0 auto;
+    }
+
+    footer {
+        margin-top: 20px;
+        
+    }
+
+}
+
+
 /* For devices 1200px and up */
 
-@media screen and (min-width:1200px){
+@media screen and (min-width:1200px) {
 
-    #header-flex{
+    #header-flex {
         display: flex;
         justify-content: space-between;
         margin-top: 30px;
         line-height: 50px;
     }
 
-    #logo{
+    #logo {
         margin-left: 30px;
     }
 
-    #navbar li{
+    #navbar li {
         margin-right: 50px;
 
     }
 
-    .main-section{
+    .main-section {
         margin: 20px auto;
-        
+
     }
 
-    .video-container{
+    .video-container {
         display: block;
         text-align: center;
         padding: 30px;
-        
+
     }
 
-    .youtube-video{
+    .youtube-video {
         width: 60%;
-        
+
     }
 
-    footer{
+    footer {
         display: inline;
-        
+
     }
 
-    #audio-container{
+    #audio-container {
         width: 70%;
         text-align: center;
         margin-right: 15%;
         margin-left: 15%;
-        
+
     }
 
-    #sound-cloud{
+    #sound-cloud {
         height: 300px;
     }
 
-    #contact-form{
+    #contact-form {
         padding: 80px;
+    }
+
+}
+
+/* For devixes 1440px and up */
+
+@media screen and (min-width:1440px) {
+
+    .youtube-video{
+        width: 50%;
     }
     
 }
 
+/* For devices 1600px and up */
+
+@media screen and (min-width:1600px) {
+
+    .youtube-video {
+        width: 50%;
+    }
+
+}
