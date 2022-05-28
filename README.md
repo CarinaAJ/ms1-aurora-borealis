@@ -1,10 +1,20 @@
-# Aurora Borealis
+# Aurora Borealis 
 
-![description](wireframes/am-i-responsive.jpg)
+<h2 align="center"><img src="wireframes/am-i-responsive.jpg"></h2>
 
-With this site I want to give users who are interested, a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should he wish to get more information than what the site is currently offering.
+<hr>
 
-INSERT SCREENSHOTS OF WEBPAGE ON DIFFERENT DEVICES
+With this site, I wanted to give users who are interested a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should they wish to get more information about the phenomenon. The live site can be found [here](https://carinaaj.github.io/ms1-aurora-borealis/).
+
+# Design
+
+Text & Background color
+
+Despite the Aurora Borealis being a very visual topic I decided to only implement hero banners as visuals to catch the users interest from the moment they enter the 
+site. To soften the contrast but still highlight the colorful hero banners I chose a light grey color as background color. Apart from the logo and navigation menu
+the text color is black. As black was a bit too harsh as header I decided to go for a very dark blue color instead.
+
+![Background color](wireframes/background-color.jpg) ![Menu color before hover](wireframes/menu-color.jpg)
 
 Features
 
