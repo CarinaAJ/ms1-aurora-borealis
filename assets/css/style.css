@@ -284,7 +284,6 @@ button:hover {
         
     }
 
-    
 }
 
 /* Media queries for devices of 600px and down */
@@ -550,7 +549,7 @@ button:hover {
 @media screen and (min-width:1600px) {
 
     .youtube-video {
-        width: 50%;
+        width: 33%;
     }
 
 }
