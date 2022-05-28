@@ -270,6 +270,23 @@ button:hover {
     margin: 50px 0 50px 0;
 }
 
+/* Media queries for devices of 550px and down */
+
+@media screen and (max-width: 550px ) {
+
+    footer{
+        padding: 20px;
+    }
+
+    #social-media{
+        display: flex;
+        justify-content: space-evenly;
+        
+    }
+
+    
+}
+
 /* Media queries for devices of 600px and down */
 
 @media screen and (max-width: 600px) {
