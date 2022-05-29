@@ -97,12 +97,12 @@ Upon submitting the form the user will be redirected to a new page, which will t
 
 ![Thank you page](readme-assets/thank-you.jpg)
 
-Future Features
+## Future Features
 
-Gallery
-A page just for children with child-friendly explanations
+- Gallery page
+- Hover effect to reveal fun facts
 
-Testing
+# Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
