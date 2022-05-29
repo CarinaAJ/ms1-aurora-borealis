@@ -126,7 +126,7 @@ The site has been tested by friends and family on a variety of mobile devices as
 
 One of the biggest problems I encountered from the beginning was aligning my logo together with the navigation menu. I initally looked at the Love Running site for guidance but despite applying the same code it didn't seem to work for my site. After checking with the Slack community and my Mentor I started looking into flexbox as it seems to be the easiest solution. I knew I could have used this across other parts for the website but because I was running out of time I looked only at the basics to make it work for my purposes. 
 
-So after applying display:black to my logo and the navigation bar and giving my logo an appropriate line-height it finally ligned up.
+So after applying display:flex to my logo and the navigation bar and giving my logo an appropriate line-height it finally ligned up.
 
 Applying media queries however has been the biggest challenge during this project. 
 
@@ -187,6 +187,25 @@ https://carinaaj.github.io/ms1-aurora-borealis/
 
 
 # Credits
+
+I faced many challenges during this project and before I go into further details I wanted to thank the Slack community for all their great support and my Mentor Martina for her amazing support and helpful tips to take this project off the ground. 😃
+
+As a starting point I looked at the Love Running project and took inspiration for the header, hero banner and footer.
+
+For further HTML and CSS issues I encountered these sites have been used for reference:
+
+- Code has been taken and adapted from [Codepen](https://codepen.io/ConStambo/pen/WxRQVq) to help me reversing the list order of my navigation bar
+- To set space between my list items for the navigation bar I followed the explanation from [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-set-vertical-space-between-the-list-of-items-using-css/)
+- To display text with equaly long sentences I looked at [Stackoverflow](https://stackoverflow.com/questions/28733950/display-multiple-text-lines-of-equal-length) for guidance
+- To embed Youtube videos I followed a fellow student [Alexa Hendry](https://github.com/AlexaH88) and her Horizon Gamepedia project, which I saw as post on my LinkedIn feed
+- How to embed audio from Sound Cloud I looked at [this](https://www.create.net/support/can-i-have-a-soundcloud-track-on-my-site) site
+- To center my contact form I adapted code taken from [Stackoverflow](https://stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css)
+- For my textarea to have the same input length as my input fields I found help on [W3 docs](https://www.w3docs.com/snippets/html/how-to-set-the-size-of-the-textarea-element.html)
+- As a starting point for the breaking points of my media queries I took advice from [W3 Schools](https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp)
+- To eliminate the horizontal scrollbar on smaller devices I looked at [Hubspot](https://blog.hubspot.com/website/hide-scrollbar-css) for help
+- How to add a table of content for my README file I used code from [Stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
+
+
 
 **Text**
 
