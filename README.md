@@ -65,17 +65,23 @@ The footer section features links to four social media sites and upon clicking, 
 
 ![Social Media Links](readme-assets/social-links.jpg)
 
+---
+
 Fun Facts (second page)
 
-Fun Facts
+![Second hero banner](readme-assets/second-aurora-banner.jpg)
 
-To provide some ‘lighter’ information (as supposed to only being scientific) I decided to add some fun facts about the Aurora on this page. 
+To provide some less scientific and more fun information to the use I decided to add some fun facts about the Aurora on this page. 
 
-Introduction:
+**Introduction:**
 
-As this page does not contain any visuals I decided to add some audio instead so the user can listen to some calming, subject-appropriate music whilst reading about the Aurora. The Track is called ‘Northern Lights’ and has been written specifically for this project.
+As this page does not contain any visuals I decided to add some calmin, subject-appropriate music instead, whilst reading more about the Aurora. The Track is called ‘Northern Lights’ and has been written specifically for this project.
 
-To follow the same style I separated each fun fact in it’s own textbox and also used paragraph breaks where necessary to make it easier to read.
+![Sound cloud audio](readme-assets/sound-cloud.jpg)
+
+To follow the same style in layout as the main page, I separated each fun fact in it’s own textbox and also used paragraph breaks where necessary to make it easier to read.
+
+![Fun fact section](readme-assets/fun-facts.jpg)
 
 The last textbox makes the user aware that there are live cam links available where the Aurora can be seen from the comfort of their own home. Three links have been provided which all open in a new tab. To keep the same colour scheme the hover colour is the same as the social media links.
 
