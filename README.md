@@ -144,6 +144,18 @@ Unfixed Bugs
 
 I would have liked to implement a 'back to top' button as the site contains a lot of text. During my research it seemed that I could have worked around it with the 'a' tag the best solution seems to be javascript which is outside this first module. So I decided to leave it out completely.
 
+Libraries & Programs used:
+
+- Github, to store my repositry
+- Gitpod, to create my html and css files
+- Google Fonts, for my font family 'Roboto Flex'
+- Font Awesome, for my social media icons as well as the calendar icon on the main page and TV screen icon on the fun fact page
+- Balsamiq, to create my wireframe
+- [Bulk Resize Photos](https://bulkresizephotos.com/en), to compress images
+- [NCH Software](https://www.nchsoftware.com/photoeditor/index.html), to edit my hero banners
+- Am I Responsive?, to esnure the site looked good across different devices
+
+
 Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -156,7 +168,7 @@ The live link can be found here -
 https://carinaaj.github.io/ms1-aurora-borealis/
 
 
-Credits
+# Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
@@ -167,11 +179,16 @@ Instructions on how to implement form validation on the Sign Up page was taken f
 The icons in the footer were taken from Font Awesome
 
 
-Media
+## Media
 
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
+All hero banners have been taken from Shutterstuck:
+
+- First hero banner (Stock Photo ID: 1291999282), Photo Contributor: [Therato](https://www.shutterstock.com/g/Therato)
+- Second hero banner (Stock Photo ID: 604599662), Photo Contributor: [Weston](https://www.shutterstock.com/g/Weston)
+- Third hero banner (Stock Photo ID: 771042802), Photo Contributor: [muratart](https://www.shutterstock.com/g/muratart)
+- Fourth hero banner (Stock Photo ID: 1319416262), Photo Contributor: [Krivosheev Vitaly](https://www.shutterstock.com/g/dary)
+
+
 
 
 
