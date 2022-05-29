@@ -169,6 +169,19 @@ https://carinaaj.github.io/ms1-aurora-borealis/
 
 
 # Credits
+
+**Text**
+
+1. What is the Aurora Borealis?, text taken from [here](https://www.rmg.co.uk/stories/topics/what-causes-northern-lights-aurora-borealis-explained#:~:text=The%20lights%20we%20see%20in,eventually%20collide%20with%20the%20Earth.), 
+
+2. Where are the best places to see the Aurora?, text taken from [here](https://www.northernlightscentre.ca/northernlights.html)
+
+3. When is the best time to see the Aurora?, taken from [here](https://www.discover-the-world.com/northern-lights/)
+
+4. Fun Facts have been taken from [this](https://www.thetimes.co.uk/travel/experiences/nature-and-gardens/11-things-you-didnt-know-about-the-northern-lights) and [this](https://www.lifeinnorway.net/northern-lights-facts/) site
+
+5. You can watch the Aurora from your sofa, text written by me
+
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
@@ -188,7 +201,20 @@ All hero banners have been taken from Shutterstuck:
 - Third hero banner (Stock Photo ID: 771042802), Photo Contributor: [muratart](https://www.shutterstock.com/g/muratart)
 - Fourth hero banner (Stock Photo ID: 1319416262), Photo Contributor: [Krivosheev Vitaly](https://www.shutterstock.com/g/dary)
 
+The videos have been taken from Youtube:
 
+- [What Is an Aurora?](https://www.youtube.com/watch?v=czMh3BnHFHQ)
+- [5 Best Places to See the Northern Lights](https://www.youtube.com/watch?v=oquBCkQ_eI4)
+
+The Audio has been written specifically for this project by my fiancé:
+
+[Northern Lights](https://soundcloud.com/davebrowningmusic/northern-lights)
+
+Live Cam links:
+
+- [Aurora Live](https://aurora.live/camera/)
+- [See The Aurora](https://seetheaurora.com/webcams)
+- [Explore](https://explore.org/livecams/zen-den/northern-lights-cam)
 
 
 
