@@ -104,13 +104,19 @@ Upon submitting the form the user will be redirected to a new page, which will t
 
 # Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The site has been tested by friends and family on a variety of mobile devices as well as different web browsers (Chrome, Firefox, Safari) and all links, videos, audio and the contact form functioned as it should. In addition I tested it myself extensively with the dev tools to ensure the site works not only on mobile devices as well as medium to larger screens.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+One of the biggest problems I encountered from the beginning was aligning my logo together with the navigation menu. I initally looked at the Love Running site for guidance but despite applying the same code it didn't seem to work for my site. After checking with the Slack community and my Mentor I started looking into flexbox as it seems to be the easiest solution. I knew I could have used this across other parts for the website but because I was running out of time I looked only at the basics to make it work for my purposes. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+So after applying display:black to my logo and the navigation bar and giving my logo an appropriate line-height it finally ligned up.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Applying media queries however has been the biggest challenge during this project. 
+
+The first issue I encountered was after applying the first rules to my media queries and I didn't notice that on smaller devices was a horizontal scrollbar. All styles I applied before had to be checked again after this discovery. But before this I had to find out how to eliminate the scrollbar in the first place. The website which provided me with the solution has been credited in the credits section.
+
+One of my main problems after this was to center the Youtube videos and Sound Cloud audio. This took a lot of trial and error. Depending on the device the solution was either changing the width or adjusting the margin.
+
+
 
 Validator Testing
 
