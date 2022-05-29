@@ -207,7 +207,7 @@ For further HTML and CSS issues I encountered these sites have been used for ref
 
 
 
-**Text**
+**Content**
 
 1. What is the Aurora Borealis?, text taken from [here](https://www.rmg.co.uk/stories/topics/what-causes-northern-lights-aurora-borealis-explained#:~:text=The%20lights%20we%20see%20in,eventually%20collide%20with%20the%20Earth.), 
 
@@ -218,16 +218,6 @@ For further HTML and CSS issues I encountered these sites have been used for ref
 4. Fun Facts have been taken from [this](https://www.thetimes.co.uk/travel/experiences/nature-and-gardens/11-things-you-didnt-know-about-the-northern-lights) and [this](https://www.lifeinnorway.net/northern-lights-facts/) site
 
 5. You can watch the Aurora from your sofa, text written by me
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
-Content
-The text for the Home page was taken from Wikipedia Article A
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-The icons in the footer were taken from Font Awesome
-
 
 ## Media
 
@@ -253,6 +243,6 @@ Live Cam links:
 - [See The Aurora](https://seetheaurora.com/webcams)
 - [Explore](https://explore.org/livecams/zen-den/northern-lights-cam)
 
-
+Lastly, I wanted to thank my fiancé, Dave Browning, not only for the beautiful song he composed for my project but also for his endless patience (and tantrums) during the creation of this project. 
 
 
