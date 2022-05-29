@@ -85,6 +85,8 @@ To follow the same style in layout as the main page, I separated each fun fact i
 
 The last textbox makes the user aware that there are live cam links available where the Aurora can be seen from the comfort of their own home. Three links have been provided which all open in a new tab. To keep the same colour scheme the hover colour is the same as the social media links.
 
+![Live cam link section](readme-assets/live-cams.jpg)
+
 
 
 Contact (third page)
