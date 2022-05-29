@@ -87,17 +87,15 @@ The last textbox makes the user aware that there are live cam links available wh
 
 ![Live cam link section](readme-assets/live-cams.jpg)
 
-
-
 Contact (third page)
-
 
 This page allows the user to leave some details, should they wish to receive a monthly newsletter about the Aurora Borealis. All input fields have a border around which is the same turquoise colour which has been used for the social media links hover. The submit button has also been supplied with the same background colour when hovering over it.
 
-Upon submitting the form the user will be redirected to a new page, which will thank him for signing up and inform him that someone will be in touch within 48 hrs.
+![Contact form](readme-assets/contact-form.jpg)
 
-—--------> IMPLEMENT THANK YOU PAGE
+Upon submitting the form the user will be redirected to a new page, which will thank him for signing up and if he left a comment someone will respond in 48 hrs.
 
+![Thank you page](readme-assets/thank-you.jpg)
 
 Future Features
 
