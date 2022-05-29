@@ -116,28 +116,40 @@ The first issue I encountered was after applying the first rules to my media que
 
 One of my main problems after this was to center the Youtube videos and Sound Cloud audio. This took a lot of trial and error. Depending on the device the solution was either changing the width or adjusting the margin.
 
+## Validator Testing
 
-
-Validator Testing
-
-HTML
+**HTML**
 No errors were returned when passing through the official W3C validator
 
-CSS
+![W3C Validator](readme-assets/w3c-validator.jpg)
+
+**CSS**
 No errors were found when passing through the official (Jigsaw) validator
+
+![W3C CSS Validator](readme-assets/w3c-css-validator.jpg)
+
+**Lighthouse**
+The page achieved great performance on mobile and desktop
+
+Mobile:
+
+![Lighthouse mobile report](readme-assets/lighthouse-mobile-report.jpg)
+
+Desktop:
+
+![Lighthouse desktop report](readme-assets/lighthouse-desktop-report.jpg)
+
+
 Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+I would have liked to implement a 'back to top' button as the site contains a lot of text. During my research it seemed that I could have worked around it with the 'a' tag the best solution seems to be javascript which is outside this first module. So I decided to leave it out completely.
 
 Deployment
-
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab.
 
-On the left-hand side under ‘Code and automation’, select ‘Pages’ and from the 
-
-source section drop-down menu, select the Master Branch.
+On the left-hand side under ‘Code and automation’, select ‘Pages’ and from the source section drop-down menu, select the Master Branch.
 
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - 
