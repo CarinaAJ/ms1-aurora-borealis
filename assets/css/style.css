@@ -266,7 +266,10 @@ button:hover {
     #audio-container{
         display: flex;
         justify-content: center;
+        width: 100%;
     }
+
+    
 
     fieldset{
         padding: 30px;
@@ -352,6 +355,10 @@ button:hover {
 
     footer {
         display: inline;
+    }
+
+    #introduction{
+        margin: 30px;
     }
 
     #audio-container {
