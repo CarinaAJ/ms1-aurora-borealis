@@ -259,17 +259,14 @@ button:hover {
     }
 
     #introduction{
-        margin: 20px;
-        padding: 20px;
+        margin: 10px;
+        padding: 10px;
     }
 
     #audio-container{
         display: flex;
         justify-content: center;
-        width: 100%;
     }
-
-    
 
     fieldset{
         padding: 30px;
@@ -304,6 +301,10 @@ button:hover {
 
     .youtube-video{
         height: 350px;
+    }
+
+    #introduction{
+        padding: 0;
     }
 
 }
