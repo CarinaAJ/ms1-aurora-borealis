@@ -4,13 +4,18 @@
 
 <hr>
 
-With this site, I wanted to give users who are interested a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should they wish to get more information about the phenomenon. The live site can be found [here](https://carinaaj.github.io/ms1-aurora-borealis/).
+With this site, I want to give users who are interested a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should they wish to get more information about the phenomenon. The live site can be found [here](https://carinaaj.github.io/ms1-aurora-borealis/).
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+1. [Design](#design)
+2. [Features](#features)
+    1. [Existing Features](#existing-features)
+        1. [Navigation Bar](#navigation-bar)
+        2. [Landing Page Banner](#landing-page-aurora-banner)
+        3. [Landing Page](#landing-page)
+        4. [Footer](#footer)
+3. [Testing](#testing)
+4. [Credits](#credits)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
@@ -45,21 +50,21 @@ This color can also be found as the border around the input fields on the contac
 
 # Features
 
-**Existing Features:**
+## Existing Features:
 
-1. Navigation Bar
+### Navigation Bar
 
 To provide the user with easy navigation across all three pages, the header includes the navigation bar at the top right hand corner and the logo ‘Aurora Borealis’ in the top left corner, which creates some space in between both, as well as making it clear on first sight what the site is about and where the navigation can be found. The navigation bar is made out of the Home, Fun Fact and Contact page. 
 
 ![Navigation bar and logo](readme-assets/navigation.jpg)
 
-Landing Page aurora banner
+### Landing Page Aurora Banner
 
 Each page consists of a different hero banner to show the variety of the Aurora and keep the interest of the user rather than using the same image across all pages. In addition it should also intrigue the user to learn more about it and to go through all three pages. 
 
 ![First hero banner](readme-assets/first-aurora-banner.jpg)
 
-Landing Page (Main Section)
+### Landing Page 
 
 This page provides a brief explanation about 1) What the Aurora Borealis is 2) Where the best places are to see it and 3) When the best time to see it is
 
@@ -77,7 +82,7 @@ Despite being one of the more common questions regarding the Aurora ("When is th
 
 ![Best time to see Aurora](readme-assets/best-time-aurora.jpg)
 
-4. Footer
+### Footer
 
 The footer section features links to four social media sites and upon clicking, a new tab will open.
 
@@ -158,11 +163,11 @@ Desktop:
 ![Lighthouse desktop report](readme-assets/lighthouse-desktop-report.jpg)
 
 
-Unfixed Bugs
+### Unfixed Bugs
 
 I would have liked to implement a 'back to top' button as the site contains a lot of text. During my research it seemed that I could have worked around it with the 'a' tag the best solution seems to be javascript which is outside this first module. So I decided to leave it out completely.
 
-Libraries & Programs used:
+### Libraries & Programs used:
 
 - Github, to store my repositry
 - Gitpod, to create my html and css files
@@ -174,7 +179,7 @@ Libraries & Programs used:
 - Am I Responsive?, to esnure the site looked good across different devices
 
 
-Deployment
+## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab.
@@ -207,7 +212,7 @@ For further HTML and CSS issues I encountered these sites have been used for ref
 
 
 
-**Content**
+### Content
 
 1. What is the Aurora Borealis?, text taken from [here](https://www.rmg.co.uk/stories/topics/what-causes-northern-lights-aurora-borealis-explained#:~:text=The%20lights%20we%20see%20in,eventually%20collide%20with%20the%20Earth.), 
 
@@ -219,7 +224,7 @@ For further HTML and CSS issues I encountered these sites have been used for ref
 
 5. You can watch the Aurora from your sofa, text written by me
 
-## Media
+### Media
 
 All hero banners have been taken from Shutterstuck:
 
