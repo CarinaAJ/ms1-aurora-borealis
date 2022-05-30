@@ -60,7 +60,7 @@ body {
     background: url('../images/p1-aurora-banner1.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
-    margin: 50px 0 50px 0;
+    margin: 50px 0;
 }
 
 /* main section */
@@ -123,7 +123,7 @@ footer {
     background: url('../images/p1-aurora-banner2.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
-    margin: 50px 0 50px 0;
+    margin: 50px 0;
 }
 
 #introduction {
@@ -139,8 +139,7 @@ footer {
 #audio-container {
     width: 70%;
     text-align: center;
-    margin-right: 15%;
-    margin-left: 15%;
+    margin: 0 15%;
 }
 
 .fun-facts {
@@ -183,7 +182,7 @@ h4 {
     background: url('../images/p1-aurora-banner3.jpg') no-repeat center center;
     width: 100%;
     height: 500px;
-    margin: 50px 0 50px 0;
+    margin: 50px 0;
 }
 
 #sign-up-intro {
@@ -195,8 +194,7 @@ h4 {
     padding: 10px;
     text-align: center;
     box-sizing: border-box;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 25%;
     letter-spacing: 1px;
 }
 
@@ -249,7 +247,7 @@ button:hover {
     background-position: left bottom;
     width: 100%;
     height: 500px;
-    margin: 50px 0 50px 0;
+    margin: 50px 0;
 }
 
 /* Media queries for devices of 425px and down */
@@ -359,7 +357,6 @@ button:hover {
         height: 300px;
     }
 
-
     .fun-facts {
         letter-spacing: 2px;
         margin: 30px;
@@ -448,7 +445,6 @@ button:hover {
     }
 }
 
-
 /* For devices 768px and up */
 
 @media screen and (min-width:768px) {
@@ -512,8 +508,7 @@ button:hover {
     #audio-container {
         width: 70%;
         text-align: center;
-        margin-right: 15%;
-        margin-left: 15%;
+        margin: 0 15%;
     }
 
     #sound-cloud {
@@ -545,8 +540,7 @@ button:hover {
     }
 
     #contact-form{
-        margin-left: 20%;
-        margin-right: 20%;
+        margin: 0 20%;
     }
 
 }

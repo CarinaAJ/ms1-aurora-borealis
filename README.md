@@ -114,7 +114,7 @@ This page allows the user to leave some details, should they wish to receive a m
 
 ### Thank you
 
-Upon submitting the form the user will be redirected to a new page, which will thank them for signing up and that if they left a comment someone will respond within 48 hrs.
+Upon submitting the form the user will be redirected to a new page, which will thank them for signing up and that if they left a comment someone will respond within 48 hrs. No user information will be stored.
 
 ![Thank you page](readme-assets/thank-you.jpg)
 
