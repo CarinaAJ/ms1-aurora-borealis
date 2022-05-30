@@ -263,7 +263,6 @@ button:hover {
         padding: 20px;
     }
 
-
     #audio-container{
         display: flex;
         justify-content: center;
@@ -298,6 +297,10 @@ button:hover {
     #social-media{
         display: flex;
         justify-content: space-evenly;   
+    }
+
+    .youtube-video{
+        height: 350px;
     }
 
 }
