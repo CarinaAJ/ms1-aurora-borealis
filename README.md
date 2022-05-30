@@ -84,21 +84,21 @@ The footer section features links to four social media sites and upon clicking, 
 
 ---
 
-## Fun Facts (second page)
+## Fun Facts
 
 ![Second hero banner](readme-assets/second-aurora-banner.jpg)
 
-To provide some less scientific and more fun information to the use I decided to add some fun facts about the Aurora on this page. 
+To provide some less scientific/more fun information for the user, I decided to add some "fun facts" about the Aurora on this page. 
 
 **Introduction:**
 
-As this page does not contain any visuals I decided to add some calmin, subject-appropriate music instead, whilst reading more about the Aurora. The Track is called ‘Northern Lights’ and has been written specifically for this project.
+As this page does not contain any visuals I decided to add some atmospheric, subject-appropriate music instead, whilst reading more about the Aurora. The Track is called ‘Northern Lights’ and has been written specifically for this project.
 
 ![Sound cloud audio](readme-assets/sound-cloud.jpg)
 
 **Main Fun Fact Section**
 
-To follow the same style in layout as the main page, I separated each fun fact in it’s own textbox and also used paragraph breaks where necessary to make it easier to read.
+To follow the same style and layout as the main page, I separated each fun fact into it’s own textbox and also used paragraph breaks where necessary to make it easier to read.
 
 ![Fun fact section](readme-assets/fun-facts.jpg)
 
@@ -106,7 +106,7 @@ The last textbox makes the user aware that there are live cam links available wh
 
 ![Live cam link section](readme-assets/live-cams.jpg)
 
-## Contact (third page)
+## Contact 
 
 This page allows the user to leave some details, should they wish to receive a monthly newsletter about the Aurora Borealis. All input fields have a border around which is the same turquoise colour which has been used for the social media links hover. The submit button has also been supplied with the same background colour when hovering over it.
 
@@ -114,7 +114,7 @@ This page allows the user to leave some details, should they wish to receive a m
 
 ### Thank you
 
-Upon submitting the form the user will be redirected to a new page, which will thank him for signing up and if he left a comment someone will respond in 48 hrs.
+Upon submitting the form the user will be redirected to a new page, which will thank them for signing up and that if they left a comment someone will respond within 48 hrs.
 
 ![Thank you page](readme-assets/thank-you.jpg)
 
@@ -125,9 +125,9 @@ Upon submitting the form the user will be redirected to a new page, which will t
 
 # Testing
 
-The site has been tested by friends and family on a variety of mobile devices as well as different web browsers (Chrome, Firefox, Safari) and all links, videos, audio and the contact form functioned as it should. All input fields of my contact form work and require the requested input fields before submitting. 
+The site has been tested by friends and family on a variety of mobile devices as well as different web browsers (Chrome, Firefox, Safari) and all links, videos, audio and the contact form functioned as it should. All input fields of my contact form function correctly, and require the requested input fields to be filled before submitting. 
 
-I, myself tested the site extensively with dev tools to ensure the site works responsively not only on mobile devices but also on medium to larger screens.
+I personally tested the site extensively with dev tools to ensure the site works responsively not only on mobile devices but also on medium to larger screens.
 
 One of the biggest problems I encountered from the beginning was aligning my logo together with the navigation menu. I initally looked at the Love Running site for guidance but despite applying the same code structue it didn't work for my site. After checking with the Slack community and my Mentor I started looking into flexbox as it seems to be the easiest solution. I knew I could have used this across other parts for the website but because I was running out of time I looked only at the basics to make it work for my purposes. 
 
@@ -137,7 +137,7 @@ Applying media queries however has been the biggest challenge during this projec
 
 The first issue I faced was after applying the first rules to my media queries and I didn't notice that on smaller devices was a horizontal scrollbar. All styles I applied before had to be checked again after this discovery. But before this I had to find out how to eliminate the scrollbar in the first place. The website which provided me with the solution has been credited in the credits section.
 
-One of my main problems after this was to center the Youtube videos and Sound Cloud audio. This took a lot of trial and error. Depending on the device the solution was either changing the width or adjusting the margin.
+Another big challenge was to center the Youtube videos and Sound Cloud audio. This took a lot of trial and error. Depending on the device the solution was either changing the width or adjusting the margin.
 
 ## Validator Testing
 
@@ -168,9 +168,9 @@ Desktop:
 
 ### Unfixed Bugs
 
-I noticed that on larger screens (1800px and up) when zooming out (90%) that my second hero banner does not stretch through the entirety on the screen anymore. This is due to the fact that the width of the image is only 1950px. For the main and contact section I used images with over 2000px in width. It took me a long time to find a suitable banner and adjust it for my purposes so I decided to not swap the banner at the last minute for this very specific scenario. Although I'd like to address this in the future.
+I noticed that on larger screens (1800px and up) when zooming out (90%) that my second hero banner does not stretch through the entirety on the screen anymore. This is due to the fact that the width of the image is only 1950px. For the main and contact section I used images with over 2000px in width. It took me a long time to find a suitable banner and adjust it for my purposes so I decided to leave it for now as it is a very specific scenario but plan to address it in the future.
 
-I would have liked to implement a 'back to top' button as the site contains a lot of text. During my research it seemed that I could have worked around it with the 'a' tag the best solution seems to be javascript which is outside this first module. So I decided to leave it out completely.
+I would have liked to implement a 'back to top' button as the site contains a lot of text. During my research it seemed that I could have worked around it with the 'a' tag, and the best solution seems to be javascript which is outside this first module. So I decided to leave it out completely.
 
 ### Libraries & Programs used:
 
@@ -187,17 +187,14 @@ I would have liked to implement a 'back to top' button as the site contains a lo
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab.
 
-On the left-hand side under ‘Code and automation’, select ‘Pages’ and from the source section drop-down menu, select the Master Branch.
-
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+In the GitHub repository, navigate to the Settings tab. On the left-hand side under ‘Code and automation’, select ‘Pages’ and from the source section drop-down menu, select the Master Branch. Once the master branch has been selected, the page will be automatically refresh with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - 
 https://carinaaj.github.io/ms1-aurora-borealis/
 
 # Credits
 
-I faced many challenges during this project and before I go into further details I wanted to thank the Slack community for all their great support and my Mentor Martina for her amazing support and helpful tips to take this project off the ground. 😃
+I faced many challenges during this project and before I go into further details I wanted to thank the Slack community for all their great support and my Mentor [Martina](https://www.linkedin.com/in/martinaterlevic/) for her amazing support and helpful tips to take this project off the ground. 😃
 
 As a starting point I looked at the Love Running project and took inspiration for the header, hero banner and footer.
 
@@ -205,9 +202,9 @@ As a starting point I looked at the Love Running project and took inspiration fo
 
 - Code has been taken and adapted from [Codepen](https://codepen.io/ConStambo/pen/WxRQVq) to help me reversing the list order of my navigation bar
 - To set space between my list items for the navigation bar I followed the explanation from [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-set-vertical-space-between-the-list-of-items-using-css/)
-- To display text with equaly long sentences I looked at [Stackoverflow](https://stackoverflow.com/questions/28733950/display-multiple-text-lines-of-equal-length) for guidance
-- To embed Youtube videos I followed a fellow student [Alexa Hendry](https://github.com/AlexaH88) and her Horizon Gamepedia project, which I saw as post on my LinkedIn feed
-- How to embed audio from Sound Cloud I looked at [this](https://www.create.net/support/can-i-have-a-soundcloud-track-on-my-site) site
+- To display text with equally long sentences I looked at [Stackoverflow](https://stackoverflow.com/questions/28733950/display-multiple-text-lines-of-equal-length) for guidance
+- To embed Youtube videos I followed a fellow student [Alexa Hendry](https://github.com/AlexaH88) and her Horizon Gamepedia project, which I saw as a post on my LinkedIn feed
+- To embed audio from Sound Cloud I looked at [this](https://www.create.net/support/can-i-have-a-soundcloud-track-on-my-site) site
 - To center my contact form I adapted code taken from [Stackoverflow](https://stackoverflow.com/questions/8097744/how-do-i-center-this-form-in-css)
 - For my textarea to have the same input length as my input fields I found help on [W3 docs](https://www.w3docs.com/snippets/html/how-to-set-the-size-of-the-textarea-element.html)
 - As a starting point for the breaking points of my media queries I took advice from [W3 Schools](https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp)
