@@ -7,19 +7,19 @@
 With this site, I want to give users who are interested a brief overview of this natural phenomenon. The user will find the scientific explanation of how it arises, some fun facts and a contact page should they wish to get more information about the phenomenon. The live site can be found [here](https://carinaaj.github.io/ms1-aurora-borealis/).
 
 # Table of contents
-1. [Design](#design)
-2. [Features](#features)
-    1. [Existing Features](#existing-features)
-        1. [Navigation Bar](#navigation-bar)
-        2. [Landing Page Banner](#landing-page-aurora-banner)
-        3. [Landing Page](#landing-page)
-        4. [Footer](#footer)
-        5. [Fun Facts](#fun-facts-second-page)
-        6. [Contact Page](#contact-third-page)
-            1. [Thank You Page](#thank-you)
-        7. [Future Features](#future-features)
-3. [Testing](#testing)
-4. [Credits](#credits)
+- [Design](#design)
+- [Features](#features)
+    - [Existing Features](#existing-features)
+        - [Navigation Bar](#navigation-bar)
+        - [Landing Page Banner](#landing-page-aurora-banner)
+        - [Landing Page](#landing-page)
+        - [Footer](#footer)
+        - [Fun Facts](#fun-facts-second-page)
+        - [Contact Page](#contact-third-page)
+            - [Thank You Page](#thank-you)
+        - [Future Features](#future-features)
+- [Testing](#testing)
+- [Credits](#credits)
 
 # Design
 
