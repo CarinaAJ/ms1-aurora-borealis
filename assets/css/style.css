@@ -254,6 +254,10 @@ button:hover {
 
 @media screen and (max-width: 425px) {
 
+    .youtube-video{
+        height: 250px;
+    }
+
     #introduction{
         margin: 20px;
         padding: 20px;
