@@ -125,9 +125,11 @@ Upon submitting the form the user will be redirected to a new page, which will t
 
 # Testing
 
-The site has been tested by friends and family on a variety of mobile devices as well as different web browsers (Chrome, Firefox, Safari) and all links, videos, audio and the contact form functioned as it should. All input fields of my contact form function correctly, and require the requested input fields to be filled before submitting. 
+The site has been tested by friends and family on a variety of mobile devices as well as different web browsers (Chrome, Firefox, Safari) and all links, videos, audio and the contact form functioned as it should. All input fields of the contact form function correctly, and require the requested input fields before submitting. 
 
 I personally tested the site extensively with dev tools to ensure the site works responsively not only on mobile devices but also on medium to larger screens.
+
+After deciding to use hero banners across all pages I struggled to figure out how to even get started with this task. So I looked again for guidance on the Love Running banner and the properties. I then knew that I should either find or edit an image to roughly a width of 2000px and a size of under 200kb. The programs used are mentioned in the credits.
 
 One of the biggest problems I encountered from the beginning was aligning my logo together with the navigation menu. I initally looked at the Love Running site for guidance but despite applying the same code structue it didn't work for my site. After checking with the Slack community and my Mentor I started looking into flexbox as it seems to be the easiest solution. I knew I could have used this across other parts for the website but because I was running out of time I looked only at the basics to make it work for my purposes. 
 
